@@ -8,6 +8,7 @@
  **How to use:**
  * As I have a windows machine only I have the steps to make this easiest on windows. This will still run on Mac and other operating systems that can run python.
  * Make sure to keep the CSV PID Master sheet in the same directory as the python script
+ * Put an "x" into the first column of whatever parameter you would like to take a log of in the PID spreadsheet
  * In the search bar of windows explorer in the directory of the scripts, type CMD, then press enter.
  * Either type `py OPy-Config.py` or `python OPy-Config.py` and that's it.
  * Another method is to right click the python file, then click "Open With", and finally choose the python interpreter.
