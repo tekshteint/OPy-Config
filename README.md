@@ -14,4 +14,4 @@
 
 
 **Final Note**
- * The OBD PID Master CSV can be found here [here](https://docs.google.com/spreadsheets/d/1ch2tyRrUQ67ai9sxeU1pBr5s8Qz32EOzjVaoeCC4ZqE/edit?usp=sharing). Just make sure to not rename the file.
+ * The OBD PID Master CSV can be found [here](https://docs.google.com/spreadsheets/d/1ch2tyRrUQ67ai9sxeU1pBr5s8Qz32EOzjVaoeCC4ZqE/edit?usp=sharing). Just make sure to not rename the file.
