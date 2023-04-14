@@ -54,7 +54,7 @@ def textParse(memAddr: str, cruiseSwitch: bool) -> None:
                                "sampgroup = 1\n",
                                ";scaling = ((A*256)+B)*0.000076293945\n",
                                "isvisible = 0\n",
-                               "units = V\n",
+                               ";units = V\n",
                                "priority = 2\n\n",
                                ";-------------triggers---------------\n",
                                "; only log when the engine is running\n",
