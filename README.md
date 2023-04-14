@@ -11,8 +11,8 @@
  * Put an "x" into the first column of whatever parameter you would like to take a log of in the PID spreadsheet
  * In the search bar of windows explorer in the directory of the scripts, type CMD, then press enter.
  * Either type `py OPy-Config.py` or `python OPy-Config.py` and that's it.
- * ![alt text](https://github.com/tekshteint/OPy-Config/blob/main/howToRun1.pngraw=true)
- * ![alt text](https://github.com/tekshteint/OPy-Config/blob/main/howToRun2.pngraw=true)
+ * ![alt text](https://github.com/tekshteint/OPy-Config/blob/main/howToRun1.png?raw=true)
+ * ![alt text](https://github.com/tekshteint/OPy-Config/blob/main/howToRun2.png?raw=true)
 
 
 **Final Note**
